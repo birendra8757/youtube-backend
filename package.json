@@ -1,0 +1,15 @@
+{
+  "name": "youtube-colne-backend",
+  "version": "1.0.0",
+  "description": "youtube clone backend ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "author": "birendra",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
